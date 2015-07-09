@@ -1,0 +1,3 @@
+ Intr to git ,
+This is my git file
+Good day to you!
